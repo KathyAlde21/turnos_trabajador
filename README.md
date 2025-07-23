@@ -9,7 +9,7 @@ representados en filas y los días en columnas, es decir, la matriz traspuesta.
 - Cada celda representa un identificador aleatorio de trabajador asignado al turno (por ejemplo, un número del 1 al 100). 
 -Este ejercicio permite fortalecer el uso de matrices rectangulares, la aplicación del concepto de trasposición y la gestión de datos generados automáticamente.
 
-**<h3>:orange_book:: Requerimientos:</h3>**
+**<h3>:orange_book: Requerimientos:</h3>**
 
 - Diseñar un algoritmo que genere aleatoriamente una matriz de 5x3 que simule asignaciones de turnos semanales, calcule su matriz traspuesta y despliegue ambas matrices: la original y la resultante.
 
@@ -26,4 +26,4 @@ representados en filas y los días en columnas, es decir, la matriz traspuesta.
 
 **<h3>:book: Ejemplo de Salida:</h3>**
 
-<img src="./img/turno_trabajador.png" alt="" style="width: 40%;">
+<img src="./img/turno_trabajador.png" alt="" style="width: 60%;">

@@ -1,5 +1,9 @@
 package Turnos;
 
+/*
+ * Katherine Alderete
+ */
+
 import java.util.Random;
 
 public class Turno_Trabajador {
